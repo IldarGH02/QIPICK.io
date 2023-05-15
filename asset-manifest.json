@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4806c4b6.css",
+    "main.js": "/static/js/main.be8bc5ff.js",
+    "static/media/appleEarPods2.png": "/static/media/appleEarPods2.353bad6fcda93567cd45.png",
+    "static/media/borofone bo4.png": "/static/media/borofone bo4.74bb9a03927339046af6.png",
+    "static/media/gerlax gh-04.png": "/static/media/gerlax gh-04.5f361bc8d47546fbb2de.png",
+    "static/media/appleEarPodsHandsFree.png": "/static/media/appleEarPodsHandsFree.817f87b50403e5113c5c.png",
+    "static/media/appleByz.png": "/static/media/appleByz.92c33015af551929c70b.png",
+    "static/media/appleEarPods1.png": "/static/media/appleEarPods1.1602a9bb7c6183bb25e3.png",
+    "index.html": "/index.html",
+    "main.4806c4b6.css.map": "/static/css/main.4806c4b6.css.map",
+    "main.be8bc5ff.js.map": "/static/js/main.be8bc5ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4806c4b6.css",
+    "static/js/main.be8bc5ff.js"
+  ]
+}
